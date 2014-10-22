@@ -1,4 +1,4 @@
-Autodeploy php script
+# Autodeploy PHP script
 
 Create deploy_config.json in your git project.
 
