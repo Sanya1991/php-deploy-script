@@ -1,8 +1,8 @@
 # Autodeploy PHP script
 
-Create deploy_config.json in your git project.
+Create deploy-config.json in your git project.
 
-Example deploy_config.json:
+Example deploy-config.json:
 
 ```json
     {
