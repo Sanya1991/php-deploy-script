@@ -4,7 +4,7 @@ Create deploy_config.json in your git project.
 
 Example deploy_config.json:
 
-     ```json
+     ``
      {
       "DEPLOY_USER":"user",
       "DEPLOY_SERVER":"localhost",
@@ -20,7 +20,7 @@ Example deploy_config.json:
       "COMPOSER_OPTIONS":"--no-dev",
       "VERSION_FILE":"",
       "EMAIL_ON_ERROR":"example@example.com"
-     }```
+     }``
 
 Set webhook url in Github/Gitlab (http://localhost/deploy.php?sat=SECRET_TOKEN)
 
