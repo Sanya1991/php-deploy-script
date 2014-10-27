@@ -4,7 +4,7 @@ Create deploy_config.json in your git project.
 
 Example deploy_config.json:
 
-```
+```json
     {
         "DEPLOY_USER":"user",
         "DEPLOY_SERVER":"localhost",
